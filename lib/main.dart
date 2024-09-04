@@ -5,7 +5,7 @@ void main() {
   runApp(
     const MaterialApp(
       home: Scaffold(
-        body: GradientContainer.zoro(),
+        body: LandingPage.luffy(),
       ),
     ),
   ); // runApp is a function that takes a widget and shows it on the screen
