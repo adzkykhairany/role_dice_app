@@ -22,8 +22,8 @@ To get started with this app, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](assets/screenshots/screenshot1.jpg)
+![Screenshot 2](assets/screenshots/screenshot2.jpg)
 
 
 ## Contact
