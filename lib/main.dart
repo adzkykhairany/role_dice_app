@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:role_dice_app/random_dice.dart';
+import 'package:role_dice_app/landing_page.dart';
 
 void main() {
   runApp(
