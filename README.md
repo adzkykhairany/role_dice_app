@@ -23,8 +23,8 @@ To get started with this app, follow these steps:
 ## Screenshots
 
 <div>
-  <img src="assets/screenshots/screenshot1.jpg" alt="Screenshot 1" width="45%" />
-  <img src="assets/screenshots/screenshot2.jpg" alt="Screenshot 2" width="45%" />
+  <img src="assets/screenshots/screenshot1.jpg" alt="Screenshot 1" width="25%" />
+  <img src="assets/screenshots/screenshot2.jpg" alt="Screenshot 2" width="25%" />
 </div>
 
 ## Contact
